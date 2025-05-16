@@ -1,0 +1,55 @@
+What is the primary purpose of an operating system?
+a) To manage hardware resources
+b) To provide internet access
+c) To run applications
+d) To manage user accounts
+A
+1
+
+Which of the following is not an operating system?
+a) Windows
+b) Linux
+c) Microsoft Office
+d) macOS
+C
+1
+
+What does CPU stand for?
+a) Central Processing Unit
+b) Central Program Unit
+c) Computer Personal Unit
+d) Central Peripheral Unit
+A
+1
+
+Which of the following is a type of operating system?
+a) Batch
+b) Interactive
+c) Real-time
+d) All of the above
+D
+1
+
+What is a kernel?
+a) The core component of an operating system
+b) A type of software application
+c) A hardware component
+d) A programming language
+A
+1
+
+Which function is not managed by an operating system?
+a) Memory management
+b) Process scheduling
+c) Directly executing user applications
+d) File management
+C
+1
+
+What is multitasking in operating systems?
+a) Running one process at a time
+b) Running multiple processes concurrently
+c) Running multiple threads in a process
+d) Running background services only
+B
+1

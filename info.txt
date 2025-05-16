@@ -1,0 +1,8 @@
+in student_dtls.txt the format is 
+name RollNo RegistrationNo Password
+
+
+In instructor_dtls.txt the format is 
+name instructor_id Password
+
+

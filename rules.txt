@@ -1,0 +1,3 @@
+Time limit per question: 5
+Marks awarded for correct answer: 1.00
+Marks deducted for incorrect answer: 0.25
